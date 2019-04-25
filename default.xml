@@ -3,8 +3,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/" />
   <remote  name="x86"
-           fetch="git://git.osdn.net/gitroot/android-x86/"
-           revision="android-x86-7.1-r2" />
+           fetch="git://git.osdn.net/gitroot/android-x86/"/>
   <default revision="refs/tags/android-x86-1.6"
            remote="aosp"
            sync-c="true"
